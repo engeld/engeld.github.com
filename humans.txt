@@ -1,12 +1,10 @@
 /* the humans responsible & colophon */
 /* humanstxt.org */
 
-
 /* TEAM */
-  <your title>: <your name>
-  Site: 
-  Twitter: 
-  Location: 
+  Developer: Dana Engel
+  Site: engeld.github.io
+  Twitter: -
 
 /* THANKS */
   Names (& URL): 
@@ -14,7 +12,7 @@
 /* SITE */
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery
-  Software:
+  Software: Sublime
   
 
                                     
