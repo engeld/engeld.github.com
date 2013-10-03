@@ -8,6 +8,7 @@ function GithubRepo( repo ) {
 	this.url = repo.url;
 	this.watchers = repo.watchers;
     this.issues = repo.open_issues_count;
+    this.owner = repo.owner.login;
 }
 
 // Parses HTML template
@@ -33,7 +34,7 @@ GithubRepo.prototype.toHTML = function () {
 				"<p>" + self.description + " &mdash; <a href='" + self.url + "#readme'>Read More</a></p>" +
 			"</div>" +
 			"<div class='github-box-download'>" +
-				"<p class='repo-update'>Latest commit to <strong>master</strong> on " + self.pushed_at + "</p>" +
+				"<p class='repo-update'>Latest commit by <strong>"+ self.owner + "</strong> to <strong>master</strong> on " + self.pushed_at + "</p>" +
 				"<a class='repo-download' title='Download as zip' data-icon='w' href='" + self.url + "/zipball/master'></a>" +
 			"</div>" +
 		"</div>");
