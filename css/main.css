@@ -231,6 +231,12 @@ a:hover[href^="https://"] {
   filter: alpha(enabled=false);
 }
 
+.meta {
+  color: #ff6900;
+  font-weight: bold;
+  margin-top: -1.2em;
+}
+
 /* to avoid splitted tables by pdf generation with wkhtmltopdf */
 table, td, tr {
   page-break-inside: avoid;
