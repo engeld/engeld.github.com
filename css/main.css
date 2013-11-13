@@ -149,7 +149,7 @@ del {
   overflow-y: hidden;
 }
 
-a {
+a:not(.title) {
   border-radius: 0.5em 0.5em 0.5em 0.5em;
   -moz-border-radius: 2px 2px 2px 2px;
   background-color: #EAEAEA;
