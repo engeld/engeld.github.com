@@ -11,6 +11,7 @@ title: engeld's Blog
 
 ## $ cat /var/private
  - I <strike>love</strike> live in [Zurich][], the <strike>prettiest</strike> biggest city in [Switzerland][].
+ - I've completed my IT-apprenticeship in a swiss high street bank and graduated with a Swiss Federal VET Diploma [(Eidgenössisches Fähigkeitszeugnis)](https://de.wikipedia.org/wiki/Eidgen%C3%B6ssisches_F%C3%A4higkeitszeugnis) and [the BM (german)](https://de.wikipedia.org/wiki/Berufsmaturit%C3%A4t).
  - I'm currently working on my way towards the [IT-Bachelor][bachelor] at the [HSR][].
  - In my free time, I enjoy working with the scouts and play e-bass
 
