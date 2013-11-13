@@ -30,10 +30,17 @@ Services which I want to host myself, but hadn't had the time to install it
  - [pad.engeld.cc][pad] - etherpad
  - [znc.engeld.cc][znc] - irc-bouncer
  - [mumble.engeld.cc][mumble] - mumble-server
- - [jabber.engeld.cc][jabber] - jabber-server
  - [url.engeld.cc][url] - url-shortener
  - [cacti.engeld.cc][cacti] - montoring
 
+## Nice-to-have
+Stuff which would ne nice-to-have
+
+
+ - [jabber.engeld.cc][jabber] - jabber-server
+
+
+---
 
 [wiki]:         https://wiki.engeld.cc/doku.php
 [piwik]:        https://piwik.engeld.cc/
