@@ -12,7 +12,7 @@ title: engeld's Blog
 ## $ cat /var/private
  - I <strike>love</strike> live in [Zurich][], the <strike>prettiest</strike> biggest city in [Switzerland][].
  - I'm currently working on my way towards the [IT-Bachelor][bachelor] at the [HSR][].
- - In my free time, I enjoy working with the scouts.
+ - In my free time, I enjoy working with the scouts and play e-bass
 
 
 [java]:         https://en.wikipedia.org/wiki/Java_%28programming_language%29
