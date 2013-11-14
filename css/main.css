@@ -154,6 +154,10 @@ del {
   overflow-y: hidden;
 }
 
+a {
+color: #333333
+}
+
 a:not(.title) {
   border-radius: 0.5em 0.5em 0.5em 0.5em;
   -moz-border-radius: 2px 2px 2px 2px;
@@ -162,7 +166,6 @@ a:not(.title) {
   padding: 1px 6px 2px;
   text-decoration: none;
   font-size: 12px;
-  color: #333333;
 }
 
 a:hover {
