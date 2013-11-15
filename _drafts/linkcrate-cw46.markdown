@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Linkcrate Week 46"
+title: "Linkdump Week 46"
 
 ---
 
@@ -14,7 +14,10 @@ Other stuff I did this week:
 
 And without any further ado, here's the linkdump:
 
-## 
+## Best of Reddit
+ - [How to get your first job in networking](http://www.reddit.com/r/networking/comments/o4ytg/how_do_you_get_your_first_job_in_networking/c3enidg)
+ - [How to approach a head of a company for a job](http://www.reddit.com/r/networking/comments/o7gtv/i_just_got_this_idea_tell_me_if_its_bad_or_good_i/c3f2u4u)
+
 
 
 
