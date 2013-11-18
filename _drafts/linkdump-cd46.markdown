@@ -14,6 +14,17 @@ Other stuff I did this week:
 
 And without any further ado, here's the linkdump:
 
+## Coding
+
+ - [PHP PEAR Coding standards](http://pear.php.net/manual/en/standards.php)
+
+
+### Interesting Github-Repos
+
+ - [bandar](https://github.com/yani-/bandar) - a fully tested minimalistic template engine 
+ - [hello-world](https://github.com/leachim6/hello-world) - a repo containing "hello world" in every programming language
+ - [status-panic](https://github.com/allynbauer/statuspanic) - a simple way to make a 
+
 ## Best of Reddit
  - [How to get your first job in networking](http://www.reddit.com/r/networking/comments/o4ytg/how_do_you_get_your_first_job_in_networking/c3enidg)
  - [How to approach a head of a company for a job](http://www.reddit.com/r/networking/comments/o7gtv/i_just_got_this_idea_tell_me_if_its_bad_or_good_i/c3f2u4u)
