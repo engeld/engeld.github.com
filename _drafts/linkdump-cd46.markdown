@@ -14,22 +14,58 @@ Other stuff I did this week:
 
 And without any further ado, here's the linkdump:
 
-## Coding
 
+ - [Contributing to the Mozilla Codebase](https://developer.mozilla.org/en-US/docs/introduction)
+ - [Code Firefox - Videos on How To Become a Contributor](http://codefirefox.com/)
  - [PHP PEAR Coding standards](http://pear.php.net/manual/en/standards.php)
+ - [Open Source Software used in Playstation 4](http://www.scei.co.jp/ps4-license/)
+ - [Python - The Best First Programming Language](http://www.mihneadb.net/post/python-the-best-first-programming-language/)
+ - [Saving 9GB of RAM with Pyton's  \_\_slots\_\_](http://tech.oyster.com/save-ram-with-python-slots/)
+ - [How We Deploy 300 Times a Day](http://dev.hubspot.com/blog/how-we-deploy-300-times-a-day)
+ - [Building OpenJDK on Windows](http://www.redcode.nl/blog/2013/10/building-openjdk-on-windows/)
+ - [What to Work On For OpenJDK](https://java.net/projects/adoptopenjdk/pages/WhatToWorkOnForOpenJDK)
+ - [Shell Commands in Python](http://shell-command.readthedocs.org/en/latest/)
+ - [Common shell script mistakes](http://www.pixelbeat.org/programming/shell_script_mistakes.html)
+ - [How to write a spelling corrector](http://norvig.com/spell-correct.html)
+ - [A copmparison of books for learning assemblz language](http://allthatiswrong.wordpress.com/2013/03/04/a-comparison-of-books-for-learning-assembly-language/)
+ - [Is Google signing your chat messages?](https://blog.thijsalkema.de/blog/2013/11/19/is-google-signing-your-chat-messages/)
+ - [Battle ready Nginx - an optimization guide](http://blog.zachorr.com/nginx-setup/)
+ - [Good tests, bad tests](http://jameso.be/2013/11/16/good-tests.html)
+ - [Apple II DOS Source Code](http://www.computerhistory.org/atchm/apple-ii-dos-source-code/)
+ - [The 3 Motivational Forces of Developers](http://www.bennorthrop.com/Essays/2013/developer-motivation.php)
+ - [Cebtrakuted Git-Workflow by Atlassian](https://www.atlassian.com/git/workflows#!workflow-centralized)
+ - [Pea.rs](http://pea.rs/)
 
+### Libraries / Tools
+
+ - [RequireJS](http://www.requirejs.org/) - a javascript file/module loader
+ - [docopt](http://docopt.org/) - a commandline interface description language
+ - [Monit](http://mmonit.com/monit/) - a (process) monitoring tool
+
+### Stackoverflow
+
+ - [How to make svn diff show remote changes?](http://stackoverflow.com/questions/7358728/how-to-make-svn-diff-show-remote-changes)
+ - [Undo git add before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit)
+ - [Is there a list of brew's installable packages?](http://stackoverflow.com/questions/8833230/is-there-a-list-of-brews-the-packages-manager-for-os-x-installable-packages)
+ - [What does SVN do better than git?](http://programmers.stackexchange.com/questions/111633/what-does-svn-do-better-than-git) - ([link to /r/programming's debate](http://www.reddit.com/r/programming/comments/1qr5hb/what_does_svn_do_better_than_git/))
 
 ### Interesting Github-Repos
 
- - [bandar](https://github.com/yani-/bandar) - a fully tested minimalistic template engine 
- - [hello-world](https://github.com/leachim6/hello-world) - a repo containing "hello world" in every programming language
- - [status-panic](https://github.com/allynbauer/statuspanic) - a simple way to make a 
+ - [Continuities/adarkroom](https://github.com/Continuities/adarkroom) - a minimalistic text adventure game (very addictive!)
+ - [yani-/bandar](https://github.com/yani-/bandar) - a fully tested minimalistic template engine in php
+ - [leachim6/hello-world](https://github.com/leachim6/hello-world) - a repo containing "hello world" in every programming language
+ - [allynbauer/status-panic](https://github.com/allynbauer/statuspanic) - a php-clone of [Panic's Status Board of Badassery](https://www.panic.com/blog/the-panic-status-board/) 
+ - [Atlanta/leibniz](https://github.com/Atalanta/leibniz) - a integration testing framework for chef
+ - [thcipriani/bashtemplate](https://github.com/thcipriani/bashtemplate/blob/master/bash_script_template) - a bash-scripting-template ([link to the template itself](https://github.com/thcipriani/bashtemplate/blob/master/bash_script_template))
 
 ## Best of Reddit
  - [How to get your first job in networking](http://www.reddit.com/r/networking/comments/o4ytg/how_do_you_get_your_first_job_in_networking/c3enidg)
  - [How to approach a head of a company for a job](http://www.reddit.com/r/networking/comments/o7gtv/i_just_got_this_idea_tell_me_if_its_bad_or_good_i/c3f2u4u)
-
-
+ - [What kind of skills outside of szstem administration translate to this profession?](http://www.reddit.com/r/sysadmin/comments/1qu4d3/what_kinds_of_skills_outside_of_system/)
+ - [Where is the bottom/best way to get started as Linux Sysadmin?](http://www.reddit.com/r/sysadmin/comments/1djrml/where_is_the_bottombest_way_to_get_started_as_a/)
+ - [Want to start using a dashboard, any suggestions?](http://www.reddit.com/r/sysadmin/comments/15egq4/want_to_start_using_a_dashboard_any_suggestions/)
+ - [The tools and resources you can't live without?](http://www.reddit.com/r/sysadmin/comments/1h8ve7/the_tools_and_resources_you_cant_live_without/)
+ - [Give me all your favorite tools that output data structures](http://www.reddit.com/r/sysadmin/comments/1lxoj7/linux_admins_give_me_all_your_favorite_tools_that/)
 
 
 
