@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
   line-height: 1.2em;
-  font-size: 18pt;
+  font-size: 16pt;
   color: #003366;
   margin-top: 2.0em;
   margin-bottom: 1.2em;
@@ -33,7 +33,7 @@ h2 {
 
 h3 {
   line-height: 1.2em;
-  font-size: 16pt;
+  font-size: 14pt;
   color: #003366;
   margin-top: 1.5em;
   margin-bottom: 1.2em;
@@ -44,7 +44,7 @@ h3 {
 
 h4 {
   line-height: 1.2em;
-  font-size: 14pt;
+  font-size: 12pt;
   color: #003366;
   margin-top: 1.0em;
   margin-bottom: 1.2em;
