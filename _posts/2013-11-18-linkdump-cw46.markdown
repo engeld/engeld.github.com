@@ -36,20 +36,20 @@ And without any further ado, here's the linkdump:
  - [Cebtrakuted Git-Workflow by Atlassian](https://www.atlassian.com/git/workflows#!workflow-centralized)
  - [Pea.rs](http://pea.rs/)
 
-### Libraries / Tools
+**Libraries / Tools**
 
  - [RequireJS](http://www.requirejs.org/) - a javascript file/module loader
  - [docopt](http://docopt.org/) - a commandline interface description language
  - [Monit](http://mmonit.com/monit/) - a (process) monitoring tool
 
-### Stackoverflow
+**Stackoverflow**
 
  - [How to make svn diff show remote changes?](http://stackoverflow.com/questions/7358728/how-to-make-svn-diff-show-remote-changes)
  - [Undo git add before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit)
  - [Is there a list of brew's installable packages?](http://stackoverflow.com/questions/8833230/is-there-a-list-of-brews-the-packages-manager-for-os-x-installable-packages)
  - [What does SVN do better than git?](http://programmers.stackexchange.com/questions/111633/what-does-svn-do-better-than-git) - ([link to /r/programming's debate](http://www.reddit.com/r/programming/comments/1qr5hb/what_does_svn_do_better_than_git/))
 
-### Interesting Github-Repos
+**Interesting Github-Repos**
 
  - [Continuities/adarkroom](https://github.com/Continuities/adarkroom) - a minimalistic text adventure game (very addictive!)
  - [yani-/bandar](https://github.com/yani-/bandar) - a fully tested minimalistic template engine in php
@@ -58,7 +58,8 @@ And without any further ado, here's the linkdump:
  - [Atlanta/leibniz](https://github.com/Atalanta/leibniz) - a integration testing framework for chef
  - [thcipriani/bashtemplate](https://github.com/thcipriani/bashtemplate/blob/master/bash_script_template) - a bash-scripting-template ([link to the template itself](https://github.com/thcipriani/bashtemplate/blob/master/bash_script_template))
 
-## Best of Reddit
+**Best of Reddit**
+
  - [How to get your first job in networking](http://www.reddit.com/r/networking/comments/o4ytg/how_do_you_get_your_first_job_in_networking/c3enidg)
  - [How to approach a head of a company for a job](http://www.reddit.com/r/networking/comments/o7gtv/i_just_got_this_idea_tell_me_if_its_bad_or_good_i/c3f2u4u)
  - [What kind of skills outside of szstem administration translate to this profession?](http://www.reddit.com/r/sysadmin/comments/1qu4d3/what_kinds_of_skills_outside_of_system/)
