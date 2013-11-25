@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Installing Baikal on uberspace"
+
+---
+
+I just restored my iPhone and I'm currently in the process of getting everything re-configured.
+Just when I wanted to add google as provider for my contacts/calendar, it occured to me that (since I wanted to switch away from google anyway) that I should do my switch now.
+
+## Steps
+
+ - `wget http://baikal-server.com/get/baikal-regular-0.2.6.tgz` 
+ - `tar xzvf baikal-regular-0.2.6.tgz`
+ - `mv baikal-regular /var/www/virtual/UBERSPACE_USERNAME/dav.DOMAIN.COM`
+
+
+Link: http://blog.marco-ilgner.de/article/notizblog-mit-dem-anchor-cms
