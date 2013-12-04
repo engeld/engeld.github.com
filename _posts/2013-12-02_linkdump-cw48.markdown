@@ -1,0 +1,56 @@
+---
+layout: post
+title: "Linkdump Week 48"
+
+---
+
+[Remember how I was struggling with my iPhone?](http://blog.engeld.cc/2013/11/25/linkdump-cw47.html) - Turns out a restore helped after all. I have no clue HOW that could've helped but it did. But I didn't do the normal restore (remember the jailbreak!). I used [iLEX RAT](http://ilexrat.com/) instead. And it worked like a charm. I also considered [semi-restore](http://semi-restore.com) but after reading thru related [/r/jailbreak-pages](reddit.com/r/jailbreak) I choose iLEX RAT.
+
+And since I didn't restore from a backup (I wanted a clean start), I had to reconfigure my calendar/my contacts. So I used this opportunity to install [baikal](http://baikal-server.com/) to my [uberspace](https://uberspace.de)
+
+Without any further ado, here are the links of this week:
+
+ - [Wie ich das mit den Domains mache](http://blog.marco-ilgner.de/article/wie-ich-das-mit-den-domains-mache)
+ - [CardDav und CalDav mit Baikal im uberspace](http://blog.marco-ilgner.de/article/carddav-und-caldav-mit-baikal-im-uberspace)
+ - [A Proper Server Naming Scheme](http://www.mnxsolutions.com/devops/a-proper-server-naming-scheme.html) ([and its /r/sysadmin/-discussiong](http://www.reddit.com/r/sysadmin/comments/1rfrq0/ai_proper_server_naming_scheme/)
+ - [Threading: Message-ID, References, In-Reply-To](http://cr.yp.to/immhf/thread.html)
+ - [Resources for getting started with 'iOS Hacking'](http://winocm.com/research/2013/09/20/resources-for-getting-started/)
+ - [What jailbreaks do (in SVC mode)](http://winocm.com/research/2013/09/14/what-jailbreaks-do-in-svc-mode/)
+ - [100 Useful Eclipse Shortcuts](http://www.javaexperience.com/100-useful-eclipse-shortcuts/)
+
+**IT-Jobs CH**
+
+ - [Freshjobs](http://freshjobs.ch/)
+
+**Nagios/Icinga**
+
+ - [10 Steps: MySQL Monitoring through NagiosL Install & Configure](http://kedar.nitty-witty.com/blog/10-steps-mysql-monitoring-nagios-installation-configuration)
+ - [How to Monitor SQL with Nagios?](http://www.haxordoubt.com/2013/05/how-to-monitor-sql-with-nagios.html)
+ - [The check\_mysql\_query Plugin](https://www.nagios-plugins.org/doc/man/check_mysql_query.html)
+
+**Stackoverflow**
+
+ - [Difference between executing php from the commandline and from the http side](http://stackoverflow.com/questions/3016281/difference-between-executing-php-from-the-commandline-and-from-the-http-side#3016824)
+ - [How to run a set of SQL queries from a file in PHP](http://stackoverflow.com/questions/2980338/how-to-run-a-set-of-sql-queries-from-a-file-in-php)
+
+
+**Libraries / Tools**
+
+ - [Composer](http://getcomposer.org/) - //Dependency Manager for PHP//
+ - [Shortcat](http://shortcatapp.com/) - //A Keyboard tool for MacOSX which let's you "click" buttons with a few keystrokes//
+
+**Hardening Max OSX**
+
+ - [Hardening OSX Using The NSA Guidelines](http://www.tenable.com/blog/hardening-os-x-using-the-nsa-guidelines)
+ - [Mac OSX Security Configuration Guides](https://ssl.apple.com/support/security/guides/) - //outdated!//
+ - [MacShadows KB: hardening Mac OSX](http://macshadows.com/kb/index.php?title=Hardening_Mac_OS_X)
+ - [A Securitz Primer for Mac OSX](http://www.oreillynet.com/pub/a/mac/2004/02/20/security.html)
+
+**Interesting Github-Repos**
+
+ - [nylira/prism-break](https://github.com/nylira/prism-break)
+ - [jeromeschneider/Baikal](https://github.com/jeromeschneider/Baikal)
+ - [DAViCal/davical](https://github.com/DAViCal/davical)
+ - [fruux/sabre-dav](https://github.com/fruux/sabre-dav)
+ - [dhotson/txtcam](https://github.com/dhotson/txtcam)
+ - [studentiks/sysql](https://github.com/studentiks/sysql)
