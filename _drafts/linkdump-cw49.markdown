@@ -28,6 +28,9 @@ title: "Linkdump Week 49"
 
 **Programming General**
 
+ - [The most efficient way of writing a logger in PHP?](http://stackoverflow.com/questions/8986244/most-efficient-way-of-writing-a-to-file-logger-in-php)
+ - [PHP Logging Framework](http://stackoverflow.com/questions/341154/php-logging-framework)
+ - [Logging with PHP](http://www.devshed.com/c/a/PHP/Logging-With-PHP/)
  - [Scala - 1\* would not program again](http://overwatering.org/blog/2013/12/scala-1-star-would-not-program-again/)
 
 **Networking/Sysadmin-Stuff**
@@ -45,5 +48,17 @@ title: "Linkdump Week 49"
  - [Bash One-Liners](http://www.bashoneliners.com/)
  - [Small things add up](http://chrishateswriting.com/post/68794699432/small-things-add-up)
  - [Google Dev: Minimize Request Overhead](https://developers.google.com/speed/docs/best-practices/request)
+ - [Arch Linux VS Ubuntu: It really depends on the user (German)](http://thomas-leister.de/open-source/linux/ubuntu/arch-linux-vs-ubuntu/)
+ - [Why I'm migrating from Arch Linux to Ubuntu (German)](http://aa5new.wordpress.com/2013/03/02/warum-ich-von-arch-linux-zu-ubuntu-migriere/)
+ - [Minimal Weave Server in Python (German)](http://seeseekey.net/blog/111395)
+ - [Nine awesome features and extensions for Mercurial (Hg)](http://zeroturnaround.com/rebellabs/nine-awesome-features-and-extensions-for-mercurial-hg/)
+ - [The Bootstrapped Compiler and the Damage Done](http://tratt.net/laurie/blog/entries/the_bootstrapped_compiler_and_the_damage_done)
+ - [Language Design is Hard. Let's go shopping](http://m50d.github.io/2013/12/04/language-design-is-hard.html)
+ - [10 Non/Computer Network Security Dangers](http://blog.smartbear.com/devops/10-non-computer-network-security-dangers/)
+
+**CUPS**
+ - [How to enable debug in CUPS](http://www.papercut.com/kb/Main/HowToEnableDebugCUPS)
+ - [CUPS configuration](http://www.hiit.fi/it/tech/config/cups-conf.html)
+ - [Printing with CUPS (Mac OSX up to 10.7)](http://wiki.phys.ethz.ch/readme/printing_with_cups_macos_x)
 
 
