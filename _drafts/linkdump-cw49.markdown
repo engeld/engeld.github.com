@@ -55,6 +55,8 @@ title: "Linkdump Week 49"
  - [The Bootstrapped Compiler and the Damage Done](http://tratt.net/laurie/blog/entries/the_bootstrapped_compiler_and_the_damage_done)
  - [Language Design is Hard. Let's go shopping](http://m50d.github.io/2013/12/04/language-design-is-hard.html)
  - [10 Non/Computer Network Security Dangers](http://blog.smartbear.com/devops/10-non-computer-network-security-dangers/)
+ - [Logstash Tutorial: Linux Central Logging Server](http://blog.smartbear.com/devops/10-non-computer-network-security-dangers/)a
+ - [How To Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 
 **CUPS**
  - [How to enable debug in CUPS](http://www.papercut.com/kb/Main/HowToEnableDebugCUPS)
