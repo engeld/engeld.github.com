@@ -11,6 +11,7 @@ This list serves as cheatsheet and overview about my (self-hosted) services
 Services which I use regularly
 
  - [wiki][] - *my personal dokuwiki*
+ - [baikal][] - *my calendar/contact sync solution*
  - [piwik][] - *a [web analytics app](http://piwik.org/) which runs fine but is ugly as hell and hard to use*
 
 ## Testing
@@ -44,6 +45,7 @@ Stuff which would ne nice-to-have
 
 [wiki]:         https://wiki.engeld.cc/doku.php
 [piwik]:        https://piwik.engeld.cc/
+[baikal]:       https://dav.engeld.cc
 
 [bugzilla]:     https://bugzilla.engeld.cc/
 [mantis]:       https://mantis.engeld.cc
