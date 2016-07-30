@@ -6,13 +6,14 @@
 
 body {background:#fefefe; color:#222; font:100%/1.5 Calibri,Verdana,Helvetica,sans-serif; max-width:750px; margin:0 auto 30px; padding:0 20px;}
 
-ul {list-style:none; margin:0 0 50px 0; padding:0;}
-ul li {background-color:#f7f7f7; margin:10px 0 20px 0; padding:15px;}
-li:first-of-type {margin-top:0;}
-li:last-of-type {margin-bottom:0;}
+/* Articles */
+p {list-style:none; margin:0 0 50px 0; padding:0;}
+p {background-color:#f7f7f7; margin:10px 0 20px 0; padding:15px;}
+p:first-of-type {margin-top:0;}
+p:last-of-type {margin-bottom:0;}
 
-body > ul > li > a:first-child {background-color:#dbe7e4; color:#dbe7e4; font-size:70%; margin-right:6px; text-decoration:none; position:relative; bottom:2px;}
-body > ul > li > a:hover:first-child {background-color:#c3d8d2; color:#c3d8d2;}
+body > p > a:first-child {background-color:#dbe7e4; color:#dbe7e4; font-size:70%; margin-right:6px; text-decoration:none; position:relative; bottom:2px;}
+body > p > a:hover:first-child {background-color:#c3d8d2; color:#c3d8d2;}
 
 body > h2 + b {background-color:transparent; color:#9b9992; display:block; font-style:italic; font-weight:normal; margin:0; text-align:center;}
 body > h2 + b + p {color:#9b9992; font-style:italic; margin-bottom:20px; text-align:center;}
