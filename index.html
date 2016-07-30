@@ -2,16 +2,13 @@
 layout: default
 title: engeld's Blog
 ---
-
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <a class="title" href="{{ post.url }}"><h1>{{ post.title}}</h1></a>
-      <p class="meta">{{ post.date | date: "%d.%m.%Y" }}</p>
-      {{ post.content }}
-      <br />
-      <hr />
-    {% endfor %}
-  </ul>
-</div>
+  <div id="home">
+    <br />
+    <ul class="posts">
+      {% for post in site.posts %}
+        <h3>{{ post.date | date: "%d.%m.%Y" }}</h3>
+        <a href="{{ post.url }}"><h3 class="title">{{ post.title }}</h3></a>
+        <li>{{ post.content }}</li>
+      {% endfor %}
+    </ul>
+  </div>
