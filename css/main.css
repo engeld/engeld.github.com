@@ -8,6 +8,7 @@ body {background:#fefefe; color:#222; font:100%/1.5 Calibri,Verdana,Helvetica,sa
 
 /* Header */
 .header {
+  margin: 5px;
   background-color: red;
 }
 
