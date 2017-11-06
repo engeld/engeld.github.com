@@ -21,7 +21,7 @@ ul li ol {margin:20px 0; padding:0;}
 
 /* Articles */
 ul {list-style:none; margin:0 0 50px 0; padding:0;}
-ul li {background-color:##e1e1e1; margin:10px 0 20px 0; padding:15px;}
+ul li {background-color:#e1e1e1; margin:10px 0 20px 0; padding:15px;}
 li:first-of-type {margin-top:0;}
 li:last-of-type {margin-bottom:0;}
 
