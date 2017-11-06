@@ -19,7 +19,7 @@ body {
 }
 
 /* Content */
-h2 {
+h1 {
 	background-color:#88b1a6; 
 	border-bottom:1px solid #415752; 
 	border-top:1px solid #415752; 
@@ -28,7 +28,7 @@ h2 {
 	text-align:center; 
 	text-shadow:0 1px 0  rgba(219,231,228,.5);
 }
-h2.title {
+h1.title {
 	background-color:#fefefe; 
 	border-bottom:1px solid #415752; 
 	border-top:1px solid #415752; 
