@@ -6,6 +6,12 @@
 
 body {background:#fefefe; color:#222; font:100%/1.5 Calibri,Verdana,Helvetica,sans-serif; max-width:750px; margin:0 auto 30px; padding:0 20px;}
 
+/* Header */
+.header {
+  background-color: red;
+}
+
+
 /* Articles */
 ul {list-style:none; margin:0 0 50px 0; padding:0;}
 ul li {background-color:#f7f7f7; margin:10px 0 20px 0; padding:15px;}
