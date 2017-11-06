@@ -8,8 +8,8 @@ body {background:#fefefe; color:#222; font:100%/1.5 Calibri,Verdana,Helvetica,sa
 
 /* Header */
 .header {
-  margin-top: 10px;
-  background-color: yellow;
+  margin-top:       10px;
+  margin-bottom:    10px;
 }
 
 
