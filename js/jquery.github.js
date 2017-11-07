@@ -21,9 +21,9 @@ GithubRepo.prototype.toHTML = function () {
 	return $(
 		"<div class='github-box'>" +
 			"<div class='github-box-header'>" +
-				"<h3>" +
+				"<h1 class='title'>" +
 					"<a href='" + self.url + "'>" + self.name + "</a>" +
-				"</h3>" +
+				"</h1>" +
 				"<div class='github-stats'>" +
 					"<a class='repo-stars' title='Stars' data-icon='7' href='" + self.url + "/watchers'>" + self.watchers + "</a>" +
 					"<a class='repo-forks' title='Forks' data-icon='f' href='" + self.url + "/network'>" + self.forks + "</a>" +
