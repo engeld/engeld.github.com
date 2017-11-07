@@ -40,6 +40,12 @@ h1 {
 	text-shadow:0 1px 0  rgba(219,231,228,.5);
 }
 
+.github-box-content {
+	background-color: #e1e1e1;
+	margin: 10px 0 20px 0;
+	padding: 15px;
+}
+
 ul li ul {list-style:square; margin:20px 0; padding:0;}
 ul li ul li, ul li ol li {margin:0 0 0 18px; padding:0;}
 ul li ol {margin:20px 0; padding:0;}
@@ -54,11 +60,9 @@ body > ul > li > a:first-child {background-color:#dbe7e4; color:#dbe7e4; font-si
 body > ul > li > a:hover:first-child {background-color:#c3d8d2; color:#c3d8d2;}
 
 body > h2 + b {background-color:transparent; color:#9b9992; display:block; font-style:italic; font-weight:normal; margin:0; text-align:center;}
-/* body > h2 + b + p {color:#9b9992; font-style:italic; margin-bottom:20px; text-align:center;} */
 body > h2 + b + p a:link, body > h2 + b + p a:visited {color:#9b9992;}
 body > h2 + b + p a:hover, body > h2 + b + p a:active, body > h2 + b + p a:focus {color:#444;}
 
-/* body > div {color:#9b9992; font-style:italic; text-align:center;} */
 body > div a {font-style:normal;}
 body > div a:link:first-child, body > div a:visited:first-child {color:#3d7079;}
 body > div a:hover:first-child, body > div a:active:first-child, body > div a:focus:first-child {color:#27484e;}
