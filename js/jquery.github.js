@@ -44,19 +44,16 @@ GithubRepo.prototype.toHTML = function () {
 GithubRepo.prototype._parsePushedDate = function ( pushed_at ) {
 	var self = this,
 			date = new Date( pushed_at );
-
 	return date.getDate() + "/" + ( date.getMonth() + 1 ) + "/" + date.getFullYear();
 };
 
 // Parses URL to be friendly
 GithubRepo.prototype._parseURL = function ( url ) {
 	var self = this;
-
 	return url.replace( "api.", "" ).replace( "repos/", "" );
 };
 
 // -- Github Plugin ------------------------------------------------------------
-
 function Github( element, options ) {
 	var self = this,
 			defaults = {
