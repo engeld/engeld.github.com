@@ -15,3 +15,6 @@ title: "Linkdump Week 50"
 **Notes**
 - [The three best things about Things 3, a to-do app five years in the making](https://www.theverge.com/2017/5/19/15664348/things-3-review-ios-mac-productivity)
 - [Notion](https://www.notion.so/)
+
+**Society**
+ - ["Metall, Blut und Schmerz"](https://www.tagesanzeiger.ch/ausland/amerika/metall-blut-und-schmerz/story/18044744)
