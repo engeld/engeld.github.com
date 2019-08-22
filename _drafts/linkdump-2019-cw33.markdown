@@ -18,3 +18,5 @@ title: "Linkdump Week 50"
 
 **Society**
  - ["Metall, Blut und Schmerz"](https://www.tagesanzeiger.ch/ausland/amerika/metall-blut-und-schmerz/story/18044744)
+ - ["Dating: a Research Journal"](https://putanumonit.com/2016/02/03/015-dating_1/)
+ - ["NO SON OF MINE IS GOING TO BE A BENTHAMITE UTILITARIAN. THIS IS A JOHN STUART MILL FAMILY, DAMMIT!"](https://www.mcsweeneys.net/articles/no-son-of-mine-is-going-to-be-a-benthamite-utilitarian-this-is-a-john-stuart-mill-family-dammit)
