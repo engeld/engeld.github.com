@@ -14,6 +14,7 @@ First and foremost: [My Apartment Inspo Album](https://imgur.com/a/vgCYbbC)
 - [Tivoli Audio - Model One Mono Radio](https://www.connox.ch/kategorien/technik/audio-radio/model-one.html?itm=106541)
 - [Alessi - Filo Klebebandspender](https://www.connox.ch/kategorien/accessoires/buero-accessoires/alessi-filo-klebebandspender.html)
 - [Suck UK - Key Flaschenöffner](https://www.connox.ch/kategorien/kochen/barzubehoer/suck-uk-key-flaschenoeffner.html)
+- [Smart Home for Apartments and Renters](https://thewirecutter.com/lists/smart-home-for-apartments-and-renters/)
 
 **Shopping for my new Home**
 - [crate and barrel](https://www.crateandbarrel.com/)
