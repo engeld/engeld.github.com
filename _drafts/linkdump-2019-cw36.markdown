@@ -15,6 +15,10 @@ First and foremost: [My Apartment Inspo Album](https://imgur.com/a/vgCYbbC)
 - [Alessi - Filo Klebebandspender](https://www.connox.ch/kategorien/accessoires/buero-accessoires/alessi-filo-klebebandspender.html)
 - [Suck UK - Key Flaschenöffner](https://www.connox.ch/kategorien/kochen/barzubehoer/suck-uk-key-flaschenoeffner.html)
 
+**Shopping for my new Home**
+- [crate and barrel](https://www.crateandbarrel.com/)
+- [H&M Home](https://www2.hm.com/de_ch/home.html)
+
 **Stupid shit**
 - [Radbag](https://www.radbag.ch/)
 
