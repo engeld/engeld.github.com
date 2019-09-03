@@ -22,4 +22,6 @@ First and foremost: [My Apartment Inspo Album](https://imgur.com/a/vgCYbbC)
 **Stupid shit**
 - [Radbag](https://www.radbag.ch/)
 
+**Paperless**
+- [Papierloses Büro dank Synology Diskstation und OCR Scanner](https://technikblog.ch/2019/08/papierloses-buero-dank-synology-diskstation-und-ocr-scanner/)
 
