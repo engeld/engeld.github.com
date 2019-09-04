@@ -29,3 +29,6 @@ First and foremost: [My Apartment Inspo Album](https://imgur.com/a/vgCYbbC)
 **Local delicacies**
 - [Andrey's Wine](http://www.andreys.ch/)
 - [Frauenkopf Wines](https://www.frauenkopf.ch/)
+
+**Online TV**
+- [TV7 mit Plex](https://blog.sebastianplattner.ch/media-center/tv7-mit-plex/)
