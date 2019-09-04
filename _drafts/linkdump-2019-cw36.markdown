@@ -26,3 +26,5 @@ First and foremost: [My Apartment Inspo Album](https://imgur.com/a/vgCYbbC)
 **Paperless**
 - [Papierloses Büro dank Synology Diskstation und OCR Scanner](https://technikblog.ch/2019/08/papierloses-buero-dank-synology-diskstation-und-ocr-scanner/)
 
+**Local delicacies**
+- [Andrey's Wine](http://www.andreys.ch/)
