@@ -28,3 +28,4 @@ First and foremost: [My Apartment Inspo Album](https://imgur.com/a/vgCYbbC)
 
 **Local delicacies**
 - [Andrey's Wine](http://www.andreys.ch/)
+- [Frauenkopf Wines](https://www.frauenkopf.ch/)
