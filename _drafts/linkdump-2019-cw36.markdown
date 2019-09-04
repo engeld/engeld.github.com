@@ -32,3 +32,10 @@ First and foremost: [My Apartment Inspo Album](https://imgur.com/a/vgCYbbC)
 
 **Online TV**
 - [TV7 mit Plex](https://blog.sebastianplattner.ch/media-center/tv7-mit-plex/)
+
+**MISC**
+- [We’re not MLS. We’re an Opportunity to be Better Than That](https://rosecityriveters.org/were-not-mls-were-an-opportunity-to-be-better-than-that/)
+- [Water Temps of the Aare](https://aare.guru)
+- [](https://www.theguardian.com/travel/2019/sep/02/locals-guide-berne-switzerland-10-top-tips)
+- [](https://lametric.com)
+- [](https://blog.sebastianplattner.ch/diy/magicmirror-finalisierung/)
