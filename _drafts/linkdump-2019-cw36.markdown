@@ -42,6 +42,8 @@ First and foremost: [My Apartment Inspo Album](https://imgur.com/a/vgCYbbC)
 - [Addons für IKEA Möbel](https://www.prettypegs.com/de/)
 - [Sells 3L bottles of berliner luft](https://ullrich.ch)
 - [Welcher Dübel für welche Wand](https://www.beobachter.ch/wohnen/bauen-renovieren/wandbefestigung-welcher-dubel-fur-welche-wand)
+- [Wenn der Mieter Hand anlegt](https://www.beobachter.ch/wohnen/miete/renovierung-wenn-der-mieter-hand-anlegt)
+- [Was Mieter dürfen - und was nicht](https://www.beobachter.ch/bauen-renovieren/renovationen-was-mieter-durfen-und-was-nicht)
 
 **Rezepte**
 - [Die 25-Minuten-Carbonara](https://www.tagesanzeiger.ch/leben/essen-und-trinken/das-schnellste-gericht-italiens/story/11672520)
