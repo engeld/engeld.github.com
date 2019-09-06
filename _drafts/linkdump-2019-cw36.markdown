@@ -44,6 +44,7 @@ First and foremost: [My Apartment Inspo Album](https://imgur.com/a/vgCYbbC)
 - [Welcher Dübel für welche Wand](https://www.beobachter.ch/wohnen/bauen-renovieren/wandbefestigung-welcher-dubel-fur-welche-wand)
 - [Wenn der Mieter Hand anlegt](https://www.beobachter.ch/wohnen/miete/renovierung-wenn-der-mieter-hand-anlegt)
 - [Was Mieter dürfen - und was nicht](https://www.beobachter.ch/bauen-renovieren/renovationen-was-mieter-durfen-und-was-nicht)
+- [Flexibles, kleines Studio, perfekt für problemlose Umzüge](https://m2.ikea.com/ch/de/ideas/transportierbare-funkionelle-moebel-fuer-dein-zuhause-pubdc0aa431)
 
 **Rezepte**
 - [Die 25-Minuten-Carbonara](https://www.tagesanzeiger.ch/leben/essen-und-trinken/das-schnellste-gericht-italiens/story/11672520)
