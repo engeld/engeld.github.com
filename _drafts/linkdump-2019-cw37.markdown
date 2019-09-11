@@ -26,3 +26,6 @@ title: "Linkdump Week 37"
 
 **Concept Stores**
 - [feinraus.ch](https://feinraus.ch)
+
+**Recommended Reading**
+- ["Vom Zauber des seitlich dran Vorbeigehens"](https://www.rowohlt.de/fm/131/Goldt_Vom_Zauber_des_seitlich_dran_Vorbeigehens.pdf)
