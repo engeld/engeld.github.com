@@ -22,5 +22,7 @@ title: "Linkdump Week 37"
 - [diga](https://www.diga.ch/)
 - [xxxLutz](https://www.xxxlutz.ch/)
 - [Lipo](https://www.lipo.ch)
-
 - [home24](https://www.home24.ch/)
+
+**Concept Stores**
+- [feinraus.ch](https://feinraus.ch)
