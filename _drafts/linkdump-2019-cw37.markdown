@@ -29,3 +29,8 @@ title: "Linkdump Week 37"
 
 **Recommended Reading**
 - ["Vom Zauber des seitlich dran Vorbeigehens"](https://www.rowohlt.de/fm/131/Goldt_Vom_Zauber_des_seitlich_dran_Vorbeigehens.pdf)
+
+**Apartmenttherapy**
+- [September Sweep](https://www.apartmenttherapy.com/collection/september-sweep)
+- [The best list](https://www.apartmenttherapy.com/collection/the-best-list)
+- [The 5 Dollar Store Products Professional Home Stagers Swear By](https://www.apartmenttherapy.com/home-staging-products-dollar-tree-36626645)
