@@ -44,7 +44,7 @@ GithubRepo.prototype.toHTML = function () {
 GithubRepo.prototype._parsePushedDate = function ( pushed_at ) {
 	var self = this,
 			date = new Date( pushed_at );
-	return date.getDate() + "/" + ( date.getMonth() + 1 ) + "/" + date.getFullYear();
+	return date.getDate() + "." + ( date.getMonth() + 1 ) + "." + date.getFullYear();
 };
 
 // Parses URL to be friendly
