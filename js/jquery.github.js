@@ -24,11 +24,6 @@ GithubRepo.prototype.toHTML = function () {
 				"<h1 class='title'>" +
 					"<a href='" + self.url + "'>" + self.name + "</a>" +
 				"</h1>" +
-				"<div class='github-stats'>" +
-					"<a class='repo-stars' title='Stars' data-icon='7' href='" + self.url + "/watchers'>" + self.watchers + "</a>" +
-					"<a class='repo-forks' title='Forks' data-icon='f' href='" + self.url + "/network'>" + self.forks + "</a>" +
-					"<a class='repo-issues' title='Issues' data-icon='i' href='" + self.url + "/issues'>" + self.issues + "</a>" +
-				"</div>" +
 			"</div>" +
 			"<div class='github-box-content'>" +
 				"<p>" + self.description + " &mdash; <a href='" + self.url + "#readme'>Read More</a></p>" +
@@ -36,6 +31,11 @@ GithubRepo.prototype.toHTML = function () {
 			"<div class='github-box-download'>" +
 				"<p class='repo-update'>Latest commit by <strong>"+ self.owner + "</strong> to <strong>master</strong> on " + self.pushed_at + "</p>" +
 				"<a class='repo-download' title='Download as zip' data-icon='w' href='" + self.url + "/zipball/master'></a>" +
+				"<div class='github-stats'>" +
+					"<a class='repo-stars' title='Stars' data-icon='7' href='" + self.url + "/watchers'>" + self.watchers + "</a>" +
+					"<a class='repo-forks' title='Forks' data-icon='f' href='" + self.url + "/network'>" + self.forks + "</a>" +
+					"<a class='repo-issues' title='Issues' data-icon='i' href='" + self.url + "/issues'>" + self.issues + "</a>" +
+				"</div>" +
 			"</div>" +
 		"</div>");
 };
