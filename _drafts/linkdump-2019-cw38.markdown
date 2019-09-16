@@ -27,8 +27,8 @@ title: "Linkdump Week 38"
 
 ![](https://images-na.ssl-images-amazon.com/images/I/71iWd%2BZACjL._SL1500_.jpg)
 
-I want a *Trusco ST–350*, abailable either from [Fabrikat](https://www.fabrikat.ch/werkstatt/aufbewahrung/2-stockig-aufklappbare-werkzeugkiste-st-350.html) or from [Rothirsch](https://www.rothirsch.com/collections/trusco/products/japanese-tool-box?variant=17173427271).
+I'm eyeing a *Trusco ST–350*, available either from [Fabrikat](https://www.fabrikat.ch/werkstatt/aufbewahrung/2-stockig-aufklappbare-werkzeugkiste-st-350.html) or from [Rothirsch](https://www.rothirsch.com/collections/trusco/products/japanese-tool-box?variant=17173427271). I've been looking for a toolbox for some time now and I rather like the old-school type of those TRUSCO boxes. Unfortunately, they are hard to come by in Switzerland.
 
 ![](https://www.solis.ch/media/catalog/product/cache/1/image/960x960/17f82f742ffe127f42dca9de82fb58b1/9/8/980-92_caffespressopro.jpg)
 
-And ever since I stayed at a friend who had one of those fancy *Siebträger*-Espresso-maker, I've been mesmerized by them and contemplating one for myself. In particular, the [SOLIS Caffepresso Pro](https://www.solis.ch/de/kaffee/kaffeemaschinen/solis-caffespresso-pro).
+And ever since I stayed at a friend who had one of those fancy *Siebträger*-Espresso-maker, I've been mesmerized by them and contemplating one for myself. In particular, the [*SOLIS Caffepresso Pro*](https://www.solis.ch/de/kaffee/kaffeemaschinen/solis-caffespresso-pro).
