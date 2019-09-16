@@ -12,3 +12,9 @@ title: "Linkdump Week 38"
 
 **Mac OSX**
 - [Neuer Mac: Unsere Grundausstattung zählt 75 Apps](https://www.ifun.de/neuer-mac-unsere-grundausstattung-zaehlt-75-apps-102163/)
+
+**Moving**
+- [The 109 Best Moving Tips of All Time](https://www.apartmenttherapy.com/moving-tips-36648151
+- [Next Time You Move, Pack Like You’re Going on Vacation](https://www.apartmenttherapy.com/packing-tips-for-moving-262160)
+- [The First Apartment Checklist: Things to Buy Now, Things to Buy Later](https://www.apartmenttherapy.com/the-first-apartment-checklist-things-to-buy-now-things-to-buy-later-219419) - TL;DR: Ein Bett ist essentiell, ein Schrank hat auch eine gewisse Prio und der Rest kann auch später organisiert werden.
+- 
