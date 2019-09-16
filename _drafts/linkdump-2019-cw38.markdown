@@ -13,6 +13,9 @@ title: "Linkdump Week 38"
 **Mac OSX**
 - [Neuer Mac: Unsere Grundausstattung zählt 75 Apps](https://www.ifun.de/neuer-mac-unsere-grundausstattung-zaehlt-75-apps-102163/)
 
+**Local Stuff**
+- [Local Stuff for Local Delivery](https://grundstock.ch)
+
 **Moving**
 - [The 109 Best Moving Tips of All Time](https://www.apartmenttherapy.com/moving-tips-36648151)
 - [Next Time You Move, Pack Like You’re Going on Vacation](https://www.apartmenttherapy.com/packing-tips-for-moving-262160)
