@@ -21,3 +21,7 @@ title: "Linkdump Week 38"
 - [13 Temporary & Removable Adhesive Products All Renters Should Know About](https://www.apartmenttherapy.com/10-temporary-removable-products-all-renters-should-know-about-206028)
 - [7 Ways to Organize a Bathroom Without a Medicine Cabinet or Drawers](https://www.apartmenttherapy.com/7-ways-to-organize-a-bathroom-without-a-medicine-cabinet-or-drawers-239717)
 - [https://www.thekitchn.com/essential-kitchen-equipment-5-guides-to-help-171152](https://www.thekitchn.com/essential-kitchen-equipment-5-guides-to-help-171152)
+
+**Stuff I adore/want**
+![](https://cdn.shopify.com/s/files/1/1157/2158/products/rothirsch_japanese_toolbox_angle_540x.jpg?v=1457251080)
+- I want a Trusco ST–350, either from [Fabrikat](https://www.fabrikat.ch/werkstatt/aufbewahrung/2-stockig-aufklappbare-werkzeugkiste-st-350.html) or from [Rothirsch](https://www.rothirsch.com/collections/trusco/products/japanese-tool-box?variant=17173427271).
