@@ -35,3 +35,8 @@ I'm eyeing a *Trusco ST–350*, available either from [Fabrikat](https://www.fab
 ![](https://www.solis.ch/media/catalog/product/cache/1/image/960x960/17f82f742ffe127f42dca9de82fb58b1/9/8/980-92_caffespressopro.jpg)
 
 And ever since I stayed at a friend who had one of those fancy *Siebträger*-Espresso-maker, I've been mesmerized by them and contemplating one for myself. In particular, the [*SOLIS Caffepresso Pro*](https://www.solis.ch/de/kaffee/kaffeemaschinen/solis-caffespresso-pro).
+
+
+![](https://cdn.shopify.com/s/files/1/0783/6291/products/mb_ss64.jpg?v=1567530169)
+
+I'm a huge beer-loving nerd and I'm in total awe of the [growlerwerks uKeg](https://www.growlerwerks.com/).
