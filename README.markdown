@@ -33,3 +33,5 @@ Once a post is finished and polished, I "publish" it by moving, renaming and `gi
 Links
 -----
 
+- [Github Pages, the system I'm using](https://pages.github.com/)
+- [The underlying static site generator used by Github Pages](https://jekyllrb.com/)
